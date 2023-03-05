@@ -1,1 +1,2 @@
 wiersz1
+wiersz2
